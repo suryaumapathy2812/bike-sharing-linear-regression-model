@@ -1,4 +1,4 @@
-# Project Name
+# Bike-sharing-assignment
 
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
@@ -52,6 +52,7 @@ Significant variables to predict the demand for shared bikes
 
 
 ## Acknowledgements
+```
 @article{
 	year={2013},
 	issn={2192-6352},
@@ -64,7 +65,7 @@ Significant variables to predict the demand for shared bikes
 	author={Fanaee-T, Hadi and Gama, Joao},
 	pages={1-15}
 }
-
+```
 
 ## Contact
 Created by [@suryaumapathy2812] - feel free to contact me!
